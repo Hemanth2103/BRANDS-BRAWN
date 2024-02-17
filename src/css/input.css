@@ -19,3 +19,7 @@
         line-height: 1.5;
     }
 }
+
+.as-console-wrapper {
+    display: none !important;
+  }

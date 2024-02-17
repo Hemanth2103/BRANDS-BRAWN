@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       }
     });
   });
-
+  
   const lightSwitches = document.querySelectorAll('.light-switch');
   if (lightSwitches.length > 0) {
     lightSwitches.forEach((lightSwitch, i) => {
